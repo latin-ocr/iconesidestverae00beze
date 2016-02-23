@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconesidestverae00beze/iconesidestverae00beze_0058.png"; bbox 0 0 2212 3512; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 444 1389 1748 1580">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 444 1389 1748 1580">
+     <span class='ocr_line' id='line_1_1' title="bbox 444 1389 1748 1492; baseline 0.009 -12"><span class='ocrx_word' id='word_1_1' title='bbox 444 1435 446 1442; x_wconf 49' lang='lat'><strong>⁴</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 733 1421 1189 1480; x_wconf 76' lang='lat' dir='ltr'>MATTH1AS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1249 1389 1748 1492; x_wconf 35' lang='lat' dir='ltr'>‘&#39;PFARRERVS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 642 1498 1694 1580; baseline 0.012 -13"><span class='ocrx_word' id='word_1_4' title='bbox 642 1498 653 1520; x_wconf 52' lang='lat'>⁹</span> <span class='ocrx_word' id='word_1_5' title='bbox 801 1514 1343 1573; x_wconf 82' lang='lat' dir='ltr'>ETIACOBVS</span> <span class='ocrx_word' id='word_1_6' title='bbox 1426 1524 1694 1580; x_wconf 82' lang='lat' dir='ltr'>STVR-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 905 1606 1628 1851">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 905 1606 1628 1851">
+     <span class='ocr_line' id='line_1_3' title="bbox 905 1606 1628 1669; baseline 0.014 -9"><span class='ocrx_word' id='word_1_7' title='bbox 905 1606 1113 1662; x_wconf 77' lang='lat' dir='ltr'>MIVS</span> <span class='ocrx_word' id='word_1_8' title='bbox 1182 1611 1628 1669; x_wconf 83' lang='lat' dir='ltr'>ARGENTL-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1001 1698 1511 1756; baseline 0.01 -5"><span class='ocrx_word' id='word_1_9' title='bbox 1001 1698 1324 1751; x_wconf 86' lang='lat' dir='ltr'>NENSES</span> <span class='ocrx_word' id='word_1_10' title='bbox 1370 1702 1511 1756; x_wconf 90' lang='grc' dir='ltr'>ΡΑ-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1099 1789 1398 1851; baseline 0.003 -9"><span class='ocrx_word' id='word_1_11' title='bbox 1099 1789 1398 1851; x_wconf 84' lang='lat' dir='ltr'><strong>TRICII.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 401 563 2023 2637">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 401 563 2023 2637">
+     <span class='ocr_line' id='line_1_6' title="bbox 401 563 2023 2637; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 401 563 2023 2637; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

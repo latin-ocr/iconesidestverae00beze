@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconesidestverae00beze/iconesidestverae00beze_0070.png"; bbox 0 0 2212 3512; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 656 1248 1702 1508">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 452 1228 1959 1508">
+     <span class='ocr_line' id='line_1_1' title="bbox 656 1248 1702 1346; baseline 0.008 -14.376"><span class='ocrx_word' id='word_1_1' title='bbox 656 1273 1029 1330; x_wconf 78' lang='lat' dir='ltr'>GASPARVS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1100 1248 1359 1346; x_wconf 58' lang='lat' dir='ltr'>mem,</span> <span class='ocrx_word' id='word_1_3' title='bbox 1426 1270 1702 1336; x_wconf 79' lang='lat' dir='ltr'>&#39;GERMA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 721 1364 1640 1433; baseline 0.008 -15.49"><span class='ocrx_word' id='word_1_4' title='bbox 721 1364 893 1429; x_wconf 75' lang='lat' dir='ltr'>st‚</span> <span class='ocrx_word' id='word_1_5' title='bbox 948 1366 1463 1433; x_wconf 70' lang='lat' dir='ltr'>ETLINGENsts,</span> <span class='ocrx_word' id='word_1_6' title='bbox 1508 1372 1640 1426; x_wconf 61' lang='grc' dir='ltr'>ΑΚ-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 821 1453 1479 1508; baseline 0.006 -4"><span class='ocrx_word' id='word_1_7' title='bbox 821 1453 1300 1507; x_wconf 81' lang='lat' dir='ltr'>GENTINENSIS</span> <span class='ocrx_word' id='word_1_8' title='bbox 1357 1455 1479 1508; x_wconf 80' lang='lat' dir='ltr'>EC-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 937 1552 1366 1607">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 937 1552 1366 1607">
+     <span class='ocr_line' id='line_1_4' title="bbox 937 1552 1366 1607; baseline 0.002 -1"><span class='ocrx_word' id='word_1_9' title='bbox 937 1552 1203 1607; x_wconf 88' lang='lat' dir='ltr'><strong>CLESIAE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1243 1555 1366 1607; x_wconf 71' lang='lat' dir='ltr'>DA·-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 371 454 2003 2528">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 371 454 2003 2528">
+     <span class='ocr_line' id='line_1_5' title="bbox 371 454 2003 2528; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 371 454 2003 2528; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconesidestverae00beze/iconesidestverae00beze_0100.png"; bbox 0 0 2212 3512; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 841 1480 1650 1637">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 841 1480 1650 1637">
+     <span class='ocr_line' id='line_1_1' title="bbox 841 1480 1650 1543; baseline 0.014 -11"><span class='ocrx_word' id='word_1_1' title='bbox 841 1480 1334 1537; x_wconf 74' lang='lat' dir='ltr'>ADOLPHVS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1430 1488 1650 1543; x_wconf 35' lang='lat' dir='ltr'>CLA*</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 934 1570 1561 1637; baseline 0.013 -14"><span class='ocrx_word' id='word_1_3' title='bbox 934 1570 1360 1637; x_wconf 75' lang='lat' dir='ltr'>REBACHIVS,</span> <span class='ocrx_word' id='word_1_4' title='bbox 1388 1578 1561 1632; x_wconf 36' lang='grc' dir='ltr'>(ΞΣ-ΡΧ(</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 424 578 2064 2638">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 424 578 2064 2638">
+     <span class='ocr_line' id='line_1_3' title="bbox 424 578 2064 2638; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 424 578 2064 2638; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

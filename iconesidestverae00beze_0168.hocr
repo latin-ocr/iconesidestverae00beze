@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconesidestverae00beze/iconesidestverae00beze_0168.png"; bbox 0 0 2212 3512; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 617 401 1889 483">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 617 401 1889 483">
+     <span class='ocr_line' id='line_1_1' title="bbox 617 401 1889 483; baseline 0.004 -11"><span class='ocrx_word' id='word_1_1' title='bbox 617 411 1262 477; x_wconf 69' lang='lat' dir='ltr'>FRANCISCVS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1336 401 1889 483; x_wconf 72' lang='lat' dir='ltr'><strong>VATABLVS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1854 1787 2024 1894">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1854 1787 2024 1894">
+     <span class='ocr_line' id='line_1_2' title="bbox 1869 1787 2024 1834; baseline 0.032 -13"><span class='ocrx_word' id='word_1_3' title='bbox 1869 1787 2024 1834; x_wconf 41' lang='lat' dir='ltr'>&amp;gg-«Q</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1865 1822 2021 1861; baseline 0 -17"><span class='ocrx_word' id='word_1_4' title='bbox 1865 1822 2021 1861; x_wconf 30' lang='lat' dir='ltr'>*xxxx*</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1854 1873 1997 1894; baseline 0.028 -5"><span class='ocrx_word' id='word_1_5' title='bbox 1854 1873 1935 1894; x_wconf 75' lang='lat' dir='ltr'>l.&#39;.¹.&#39;&#39;&#39;·¹··.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1991 1876 1997 1883; x_wconf 71' lang='grc'>“”</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 405 588 2066 2664">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 405 588 2066 2664">
+     <span class='ocr_line' id='line_1_5' title="bbox 405 588 2066 2664; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 405 588 2066 2664; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

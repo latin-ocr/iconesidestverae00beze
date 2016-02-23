@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconesidestverae00beze/iconesidestverae00beze_0103.png"; bbox 0 0 2212 3512; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 169 1157 1711 1359">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 169 1157 1711 1359">
+     <span class='ocr_line' id='line_1_1' title="bbox 169 1157 1711 1359; baseline 0 2153"><span class='ocrx_word' id='word_1_1' title='bbox 169 1157 1711 1359; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 145 1417 1745 1750">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 145 1417 1745 1750">
+     <span class='ocr_line' id='line_1_2' title="bbox 145 1417 1735 1529; baseline -0.002 -14"><span class='ocrx_word' id='word_1_2' title='bbox 145 1439 752 1529; x_wconf 75' lang='lat' dir='ltr'>PRAECIPVI</span> <span class='ocrx_word' id='word_1_3' title='bbox 864 1417 1735 1513; x_wconf 79' lang='lat' dir='ltr'>I&#39;NSTAVRATO-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 146 1566 1740 1622; baseline -0.002 0"><span class='ocrx_word' id='word_1_4' title='bbox 146 1570 297 1622; x_wconf 84' lang='lat' dir='ltr'>RES</span> <span class='ocrx_word' id='word_1_5' title='bbox 408 1567 898 1622; x_wconf 83' lang='lat' dir='ltr'>RESTITVTI</span> <span class='ocrx_word' id='word_1_6' title='bbox 979 1567 1354 1619; x_wconf 87' lang='lat' dir='ltr'>NOSTRA</span> <span class='ocrx_word' id='word_1_7' title='bbox 1435 1566 1740 1619; x_wconf 87' lang='lat' dir='ltr'>MEMO-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 148 1677 1745 1750; baseline -0.003 -16"><span class='ocrx_word' id='word_1_8' title='bbox 148 1683 302 1734; x_wconf 84' lang='lat' dir='ltr'>RIA</span> <span class='ocrx_word' id='word_1_9' title='bbox 356 1680 444 1732; x_wconf 89' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_10' title='bbox 500 1679 966 1745; x_wconf 84' lang='lat' dir='ltr'>HELVETIA,</span> <span class='ocrx_word' id='word_1_11' title='bbox 1027 1677 1550 1750; x_wconf 79' lang='lat' dir='ltr'>V&#39;ICI&#39;NISQE</span> <span class='ocrx_word' id='word_1_12' title='bbox 1607 1678 1745 1731; x_wconf 74' lang='lat' dir='ltr'>RE·-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 147 1791 1610 1849">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 147 1791 1610 1849">
+     <span class='ocr_line' id='line_1_5' title="bbox 147 1791 1610 1849; baseline -0.002 -2"><span class='ocrx_word' id='word_1_13' title='bbox 147 1793 587 1849; x_wconf 80' lang='lat' dir='ltr'>GIONIBVS</span> <span class='ocrx_word' id='word_1_14' title='bbox 628 1793 836 1847; x_wconf 85' lang='lat' dir='ltr'>VERI</span> <span class='ocrx_word' id='word_1_15' title='bbox 884 1791 1610 1845; x_wconf 81' lang='lat' dir='ltr'>CHRISTJANISMI.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
